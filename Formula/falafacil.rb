@@ -6,8 +6,8 @@ require "json"
 class Falafacil < Formula
   desc "Transcrição de voz em português com Gemini"
   homepage "https://github.com/OthonBreener/falafacil"
-  url "https://github.com/OthonBreener/falafacil/releases/download/v0.2.2/falafacil-0.2.2-linux-x86_64.tar.gz"
-  sha256 "5e573cf8bbdacab286a9b19485e6ab354516e3657934b09ce6e8f32643759455"
+  url "https://github.com/OthonBreener/falafacil/releases/download/v0.3.0/falafacil-0.3.0-linux-x86_64.tar.gz"
+  sha256 "d233564ba0667570a2c7df514dcc085062e4c4dd338e5d7c0865d3fb2156954a"
 
   depends_on arch: :x86_64
   depends_on :linux
